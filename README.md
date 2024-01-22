@@ -37,6 +37,3 @@
   src="https://raw.githubusercontent.com/Aditya-gupta99/Aditya-gupta99/main/images/stat.svg"
   alt="Aditya-gupta99 WakaTime Activity"
 />
-
-<p align="center">   
-  <img src="https://github.com/Aditya-gupta99/Aditya-gupta99/blob/output/github-contribution-grid-snake.svg" />
