@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/avinal/avinal/main/images/butterfly.gif" width=30%><img src="https://raw.githubusercontent.com/avinal/avinal/main/images/dog.gif" width=20%>
 
-![Aditya Linkedin Banner](https://user-images.githubusercontent.com/94394661/210163364-f67a4e2d-df8b-4767-949e-796f9049055b.png)
+![Aditya Linkedin Banner](https://github-production-user-asset-6210df.s3.amazonaws.com/94394661/382555849-86b6ac04-b302-4dfd-b392-a5925b7b6a9c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241103%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241103T075951Z&X-Amz-Expires=300&X-Amz-Signature=fc5463f4b588ecf123eabfee0b00992934cd0c3c805ff7688588a4caf6d9400d&X-Amz-SignedHeaders=host)
 
 <h3 align="center">A passionate Android developer from India</h3>
 <br>
